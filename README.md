@@ -1,6 +1,8 @@
 # The Perpetual Power Strip
 
 [![make.fun · the-catalogue-photo-of-an-2-20261121-0341](https://make.fun/badge/the-catalogue-photo-of-an-2-20261121-0341.svg)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341?utm_source=github&utm_medium=readme&utm_campaign=the-catalogue-photo-of-an-2-20261121-0341)
+[![rank](https://make.fun/badge/the-catalogue-photo-of-an-2-20261121-0341/e0426685-cloud/the-catalogue-photo-of-an-2-20261121-0341-entry/rank.svg)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-catalogue-photo-of-an-2-20261121-0341)
+[![reward](https://make.fun/badge/the-catalogue-photo-of-an-2-20261121-0341/e0426685-cloud/the-catalogue-photo-of-an-2-20261121-0341-entry/reward.svg)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341?utm_source=github&utm_medium=readme&utm_campaign=the-catalogue-photo-of-an-2-20261121-0341)
 
 A catalogue photograph of an impossible gadget: **The Perpetual Power Strip** —
 a white power strip that plugs into itself and powers a phone from nothing.
